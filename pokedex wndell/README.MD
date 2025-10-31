@@ -38,4 +38,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 
-## Desenvolvedor Diego Chagas
+## Desenvolvedor Julio Costa
