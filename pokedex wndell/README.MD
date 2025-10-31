@@ -12,7 +12,7 @@ Este projeto foi desenvolvido com intuito de pratica habilidades em react , cons
 
 1- Clone este repositorio
 
- $ git clone https://github.com/diegofchagas/pokedex
+ $ git clone https://github.com/juliodd/pokedex-wendell.git
 
  2- Acesse a pasta do projeto no terminal/cmd
 
